@@ -1,6 +1,6 @@
 body  {
     color:aqua;
-    backgroud: rgb(88, 158, 216); 
+    background: rgb(88, 158, 216); 
     margin: 0px;
 }
 
@@ -9,3 +9,20 @@ header {
     padding: 20px;
     font-size: 32px;
     color: 
+}
+
+.chamada {
+    background:rgb(85, 160, 24)
+    padding-bottom: 80px
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  } 
+  
+.chamada-texto { 
+    margin-right: 5%;
+}
+
+h1 {
+    fon-size: 40px;
+}
