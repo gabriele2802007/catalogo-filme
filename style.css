@@ -1,0 +1,11 @@
+body  {
+    color:aqua;
+    backgroud: rgb(88, 158, 216); 
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(26, 141, 141)
+    padding: 20px;
+    font-size: 32px;
+    color: 
