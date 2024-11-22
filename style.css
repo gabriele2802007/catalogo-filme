@@ -1,18 +1,18 @@
 body  {
     color:aqua;
-    background: rgb(88, 158, 216); 
+    background: rgb(121, 209, 221); 
     margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(26, 141, 141)
+    border-bottom: solid 2px rgb(96, 175, 189)
     padding: 20px;
     font-size: 32px;
     color: 
 }
 
 .chamada {
-    background:rgb(85, 160, 24)
+    background:rgb(8, 153, 189)
     padding-bottom: 80px
     padding-top: 80px;
     display: flex;
@@ -32,8 +32,8 @@ p {
 }
 
 footer {
-     background-color: rgb(228, 170, 13);
-     color: #7fc5d6;
+     background-color: rgb(20, 20, 17);
+     color: #a6c2a2;
      bottom:0;
      position:fixed;
      width:100%;
