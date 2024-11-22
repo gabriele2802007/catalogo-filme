@@ -26,3 +26,23 @@ header {
 h1 {
     fon-size: 40px;
 }
+
+p {
+    font-size: 40px
+}
+
+footer {
+     background-color: rgb(228, 170, 13);
+     color: #7fc5d6;
+     bottom:0;
+     position:fixed;
+     width:100%;
+
+}
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+    margun-top:3px;
+
+}
