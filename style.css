@@ -34,7 +34,7 @@ p {
 
 footer {
      background-color: aquamarine;
-     color: azure;
+     color: rgb(119, 218, 218);
      bottom: 0;
      position: fixed;
      width: 100%;
