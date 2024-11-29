@@ -5,11 +5,13 @@ body  {
 }
 
 header {
-    border-bottom: solid 2px rgb(96, 175, 189)
+    border-bottom: solid 2px rgb(234, 248, 250);
     padding: 20px;
     font-size: 32px;
-    color: 
+    color: rgb(148, 231, 231);
 }
+    
+
 
 .chamada {
     background:rgb(8, 153, 189)
@@ -24,7 +26,7 @@ header {
 }
 
 h1 {
-    fon-size: 40px;
+    font-size: 40px;
 }
 
 p {
